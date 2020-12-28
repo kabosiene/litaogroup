@@ -12,20 +12,35 @@
    ========================================================================== */
 
 html {
-  color: #222;
-  font-size: 1em;
 }
 
 body {
   height: 100%;
-}
-body {
   display: flex;
+  color: #595a5a;
+  font-family: BrandonGrotesque-Regular, Arial, sans-serif;
+  background-color: #f6f3f0;
 }
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
+}
+
+.container h1 {
+  font-size: 1.2em;
+  font-family: BrandonGrotesque-Black;
+  /*letter-spacing: 3px;*/
+  text-align: left;
+  margin-top: 5px;
+  line-height: 1.2em;
+
+}
+
+.container .black_line {
+  width: 62px;
+  padding-bottom: 5px;
 }
 .header-menu,
 footer {
@@ -35,10 +50,7 @@ footer {
 }
 .header-menu {
   justify-content: flex-end;
-  height: 60px;
-  background: #000000;
-  color: #fff;
-  height: 250px;
+  color: #ffffff;
 }
 ul li {
   display: inline-block;
@@ -49,9 +61,10 @@ section {
   justify-content: center;
   display: flex;
   width: 100%;
+  margin-block: 25px;
 }
 .do-you-know{
-  background-color: cyan;
+  background-color: #dfeae1;
 }
 article{
   width: 700px;
@@ -67,7 +80,7 @@ footer {
 .ceo-photo{
   height: 100px;
   margin-right: 15px;
-  border:solid 4px #000000;
+  border:solid 4px #595a5a;
   -moz-border-radius-topleft: 100px;
   -moz-border-radius-topright:100px;
   -moz-border-radius-bottomleft:100px;
@@ -81,6 +94,46 @@ footer {
   border-bottom-left-radius:100px;
   border-bottom-right-radius:100px;
 }
+.carousel-inner .item{
+  width: max-content;
+  height: 200px;
+}
+
+.carousel-cell {
+  width: 100%; /* full width */
+  height: 200px;
+  background: #dfeae1;
+  /* center images in cells with flexbox */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+  height: 100%;
+}
+
+.carousel-cell img {
+  display: block;
+  max-height: 100%;
+}
+
+.stages-table{
+  display: flex;
+  justify-content: space-between;
+}
+.one-column{
+  width: -moz-available;
+}
+.one-column div{
+  padding: 10px;
+}
+.one-column .column-header {
+   font-size: 2em;
+
+}
+
+
 
 /*
  * Remove text-shadow in selection highlight:

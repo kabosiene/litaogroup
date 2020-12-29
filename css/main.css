@@ -201,6 +201,7 @@ footer {
 }
 
 .stages-table{
+  margin-top: 100px;
   display: flex;
   justify-content: space-between;
 }
@@ -213,14 +214,16 @@ footer {
 .one-column .column-header {
   font-size: 1.2em;
   font-family: BrandonGrotesque-Black;
+  text-transform: uppercase;
+  margin-bottom: 9px;
 }
 .one-column .column-header span{
-  font-size: 4em;
+  font-size: 6.19em;
   color: #dfeae1;
   position: absolute;
-  margin: -51px 0;
-  font-weight: bold;
-
+  margin: -75px 0;
+  z-index: -1;
+  font-family: BrandonGrotesque-Bold;
 }
 a {
   color: #595a5a;

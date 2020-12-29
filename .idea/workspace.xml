@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/litao-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609254779951</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix second carousel">
+      <created>1609255310993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609255310993</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
     <MESSAGE value="add header photos" />
     <MESSAGE value="remove unused photos" />
     <MESSAGE value="add headline fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="add headline fixed" />
+    <MESSAGE value="fix second carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix second carousel" />
   </component>
 </project>

@@ -34,7 +34,7 @@ body {
 }
 
 .container-fluid h1 {
-  font-size: 1.2em;
+  font-size: 1.1250em;
   font-family: BrandonGrotesque-Black;
   text-align: left;
   margin-top: 5px;
@@ -46,13 +46,29 @@ body {
   width: 62px;
   padding-bottom: 5px;
 }
+
 .header-section{
   margin: 0;
  }
-.headline-block, .header-menu{
+.headline-block, .header-menu, .logo{
   position: absolute;
   z-index: 999;
 }
+.logo {
+  top: 27px;
+  left: 12%;
+}
+div.transbox {
+  position: absolute;
+  height: 176px;
+  width: calc(100vw - 45px);
+  z-index: 1;
+  margin: 30px;
+  margin-top: 5px;
+  background-color:  #38817e;
+  opacity: 0.6;
+}
+
 .headline-block {
   top: 137px;
   display: flex;
@@ -68,11 +84,27 @@ body {
   letter-spacing: normal;
   line-height: normal;
   text-align: center;
+  z-index: 2;
 }
 .headline-block small {
   font-size: 23px;
+  z-index: 2;
 }
 
+article header small {
+  color: #a45e5e;
+  font-family:  BrandonGrotesque-Black;
+  font-size: 13px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+article header{
+  margin-bottom: 10px;
+}
+article header h1{
+  margin-bottom: 0px;
+}
 .header-menu,
 footer {
   display: flex;
@@ -213,7 +245,7 @@ a div h2, a div p{
 }
 
 .color-red {
-  color: #a55f60
+  color: #a55f60;
 }
 
 footer {

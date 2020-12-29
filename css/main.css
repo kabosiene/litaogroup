@@ -80,19 +80,6 @@ footer {
 .ceo-photo{
   height: 100px;
   margin-right: 15px;
-  border:solid 4px #595a5a;
-  -moz-border-radius-topleft: 100px;
-  -moz-border-radius-topright:100px;
-  -moz-border-radius-bottomleft:100px;
-  -moz-border-radius-bottomright:100px;
-  -webkit-border-top-left-radius:100px;
-  -webkit-border-top-right-radius:100px;
-  -webkit-border-bottom-left-radius:100px;
-  -webkit-border-bottom-right-radius:100px;
-  border-top-left-radius:100px;
-  border-top-right-radius:100px;
-  border-bottom-left-radius:100px;
-  border-bottom-right-radius:100px;
 }
 .carousel-inner .item{
   width: max-content;
@@ -129,8 +116,20 @@ footer {
   padding: 10px;
 }
 .one-column .column-header {
-   font-size: 2em;
+  font-size: 1.2em;
+  font-family: BrandonGrotesque-Black;
+}
+.one-column .column-header span{
+  font-size: 4em;
+  color: #dfeae1;
+  position: absolute;
+  margin: -51px 0;
+  font-weight: bold;
 
+}
+
+a div h2, a div p{
+  color: #595a5a;
 }
 
 

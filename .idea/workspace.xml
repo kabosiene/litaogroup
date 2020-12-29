@@ -2,59 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Black.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BlackItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BlackItalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BlackItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BlackItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BoldItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BoldItalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-BoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-LightItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-LightItalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-LightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-LightItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-RegularItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-RegularItalic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-RegularItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-RegularItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/BrandonGrotesque-RegularItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/css/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../litaogroup/img/black_title_line.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../litaogroup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../litaogroup/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../litaogroup/css/flickity.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../litaogroup/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../litaogroup/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../litaogroup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../litaogroup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../litaogroup/js/flickity.pkgd.min.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KV-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KV-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KV-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KV-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ceo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../litaogroup" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mHlBCxWu39bSRe0cLToBRywlqT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
@@ -73,18 +32,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../litaogroup/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../litaogroup/img" />
-      <recent name="$PROJECT_DIR$/../litaogroup/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609158259785</updated>
-      <workItem from="1609158262754" duration="14007000" />
+      <workItem from="1609158262754" duration="14775000" />
+      <workItem from="1609230565711" duration="2582000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609165167939</created>
@@ -104,14 +68,34 @@
       <option name="project" value="LOCAL" />
       <updated>1609165167939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add fonts, colours and carousel">
+      <created>1609172316401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609172316401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add fonts, colours and carousel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fonts, colours and carousel" />
   </component>
 </project>

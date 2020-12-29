@@ -47,12 +47,30 @@ body {
   padding-bottom: 5px;
 }
 .header-section{
-  display: block;
   margin: 0;
  }
 .headline-block, .header-menu{
   position: absolute;
   z-index: 999;
+}
+.headline-block {
+  top: 137px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.headline {
+  color: #ffffff;
+  font-family: BrandonGrotesque-Black;
+  font-size: 55px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: center;
+}
+.headline-block small {
+  font-size: 23px;
 }
 
 .header-menu,
@@ -62,14 +80,42 @@ footer {
 }
 .header-menu {
   position: absolute;
-  justify-content: flex-end;
+  top: 40px;
+  right: 12%;
+}
+
+.header-menu li {
+  padding-left: 47px;
+}
+.header-menu li a {
   color: #ffffff;
+}
+.header-menu li a:after  {
+  content: '';
+  display: block;
+  height: 3px;
+  width: 0;
+  background: 0 0;
+  -webkit-transition: width .8s ease, background-color .5s ease;
+  -moz-transition: width .8s ease, background-color .5s ease;
+  -o-transition: width .8s ease, background-color .5s ease;
+  -ms-transition: width .8s ease, background-color .5s ease;
+  transition: width .8s ease, background-color .5s ease;
+}
+.header-menu li a:hover {
+  font-family: BrandonGrotesque-Black;
+}
+.header-menu li a:hover:after {
+  width: 100%;
+  background: #ffffff;
 }
 .carousel {
   width: 100%;
   z-index: 0;
-  left:0;
-  background: rgba(255,255,255,.5);
+}
+
+.carousel-inner{
+  height: -webkit-fill-available;
 }
 
 ul li {
@@ -197,7 +243,7 @@ footer .right li a{
   line-height: normal;
 }
 
-footer button {
+footer button, button {
   font-family: BrandonGrotesque-Bold;
   color: #ffffff;
   font-size: 9px;
@@ -208,11 +254,11 @@ footer button {
   background-color: #a45e5f;
 }
 
-footer button:focus {
+footer button:focus, button:focus {
   outline: 0
 }
 
-footer button:hover {
+footer button:hover, button:hover {
   cursor: pointer;
   color: #595a5a
 }

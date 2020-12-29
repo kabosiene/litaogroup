@@ -58,16 +58,6 @@ body {
   top: 27px;
   left: 12%;
 }
-div.transbox {
-  position: absolute;
-  height: 176px;
-  width: calc(100vw - 45px);
-  z-index: 1;
-  margin: 30px;
-  margin-top: 5px;
-  background-color:  #38817e;
-  opacity: 0.6;
-}
 
 .headline-block {
   top: 137px;

@@ -561,6 +561,14 @@ textarea {
       font-size: 12px;
     }
   }
+@media only screen and (max-width: 400px) {
+  .ceo-photo{
+    height: auto;
+  }
+  .intro-part{
+    flex-direction: column;
+  }
+}
 @media print,
   (-webkit-min-device-pixel-ratio: 1.25),
   (min-resolution: 1.25dppx),

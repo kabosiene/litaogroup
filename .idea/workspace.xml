@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +144,7 @@
     <MESSAGE value="fix second carousel" />
     <MESSAGE value="add opacity" />
     <MESSAGE value="remove opacity" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove opacity" />
+    <MESSAGE value="add stages table" />
+    <option name="LAST_COMMIT_MESSAGE" value="add stages table" />
   </component>
 </project>

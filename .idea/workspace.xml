@@ -12,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mHlBCxWu39bSRe0cLToBRywlqT" />
@@ -53,6 +58,8 @@
       <updated>1609158259785</updated>
       <workItem from="1609158262754" duration="14775000" />
       <workItem from="1609230565711" duration="2582000" />
+      <workItem from="1609319726295" duration="1213000" />
+      <workItem from="1609326123111" duration="9077000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609165167939</created>
@@ -126,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

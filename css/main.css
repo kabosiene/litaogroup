@@ -264,6 +264,47 @@ a div h2, a div p{
   color: #a55f60;
 }
 
+.roadmap-table .dot{
+  height: 50px;
+  width: 50px;
+  background-color: #dfede2;;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+}
+.roadmap-table h4{
+  color: #595a5a;
+  font-family: BrandonGrotesque-Black;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  margin: 0;
+}
+.roadmap-table td p{
+  font-family: BrandonGrotesque-Bold;
+  font-size: 12px;
+  padding: 10px;
+  margin: 0;
+  line-height: 15px;
+}
+.roadmap-table td span{
+  background-color: #e0ede3;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+.grey-bg{
+  background-color: #cbcbcb8c;
+}
+.table-borderless td, .table-borderless th, .table-borderless thead th {
+  border-right: #ffffff6e solid 2px;
+}
+
 footer {
   width: 100%;
   min-height: 270px;

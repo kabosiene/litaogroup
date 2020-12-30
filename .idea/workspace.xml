@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609339349387</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add sample roadmap table">
+      <created>1609345234373</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609345234373</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +174,7 @@
     <MESSAGE value="add stages table" />
     <MESSAGE value="add explanation" />
     <MESSAGE value="add fix for mobile ceo photo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fix for mobile ceo photo" />
+    <MESSAGE value="add sample roadmap table" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sample roadmap table" />
   </component>
 </project>

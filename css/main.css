@@ -607,9 +607,34 @@ textarea {
       font-size: 12px;
     }
   }
+@media only screen and (max-width: 600px) {
+  .headline {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .headline-block {
+    top: 90px;
+  }
+
+  .header-menu li{
+    padding-left: 20px;
+  }
+  .header-menu li a{
+    font-size: 11px;
+  }
+
+
+  .headline-block small {
+    font-size: 10px;
+  }
+}
+
 @media only screen and (max-width: 500px) {
   .ceo-photo{
-    height: initial;
+    height: auto;
+    width: 50vw;
+    margin: auto;
   }
   .intro-part{
     flex-direction: column;

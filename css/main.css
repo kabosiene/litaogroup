@@ -54,6 +54,9 @@ body {
   width: 62px;
   padding-bottom: 5px;
 }
+.only-mobile{
+  display: none;
+}
 
 .header-section{
   position: relative;
@@ -624,13 +627,18 @@ textarea {
     font-size: 11px;
   }
 
-
   .headline-block small {
     font-size: 10px;
   }
 }
 
 @media only screen and (max-width: 500px) {
+  .header-section{
+    margin-bottom: 50px;
+  }
+  .headline{
+    margin-bottom: 60px;
+  }
   .ceo-photo{
     height: auto;
     width: 50vw;
@@ -639,7 +647,39 @@ textarea {
   .intro-part{
     flex-direction: column;
   }
+  .header-menu{
+    justify-content: center;
+  }
+  .header-menu li{
+    padding-left: 10px;
+  }
+  nav{ display: none}
+  .only-mobile{ display: initial}
 }
+
+@media only screen and (max-width: 450px) {
+  .header-section{
+    margin-bottom: 80px;
+  }
+
+  .header-menu{
+    top: 30px;
+    padding:0 8%;
+  }
+}
+@media only screen and (max-width: 400px) {
+.header-section{
+  /*display: block;*/
+}
+  .carousel{
+    /*display: none;*/
+  }
+  .header-menu, .headline-block{
+    /*position: relative;*/
+  }
+
+}
+
 @media print,
   (-webkit-min-device-pixel-ratio: 1.25),
   (min-resolution: 1.25dppx),

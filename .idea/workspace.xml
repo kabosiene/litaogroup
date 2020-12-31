@@ -60,7 +60,7 @@
       <workItem from="1609230565711" duration="2582000" />
       <workItem from="1609319726295" duration="1213000" />
       <workItem from="1609326123111" duration="9077000" />
-      <workItem from="1609407516213" duration="2280000" />
+      <workItem from="1609407516213" duration="5235000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609165167939</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609411080136</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add intro fix">
+      <created>1609411670824</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609411670824</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,7 @@
     <MESSAGE value="add sample roadmap table" />
     <MESSAGE value="add fix to ceo" />
     <MESSAGE value="add scrollbale table" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scrollbale table" />
+    <MESSAGE value="add intro fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="add intro fix" />
   </component>
 </project>

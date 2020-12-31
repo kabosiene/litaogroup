@@ -304,6 +304,11 @@ a div h2, a div p{
 .table-borderless td, .table-borderless th, .table-borderless thead th {
   border-right: #ffffff6e solid 2px;
 }
+.simple-table{
+  overflow: auto;
+  white-space: nowrap;
+  width: 90vw;
+}
 
 footer {
   width: 100%;

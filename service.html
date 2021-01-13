@@ -53,7 +53,7 @@
       </article>
     </section>
     <section class="contacts">
-      <article> <div class="form" id="contact-form"><button onclick=" setCookie('form', 'FILLED', 30);"></button></div></article>
+      <article> <div class="form" id="contact-form" style="visibility: hidden;"><button onclick=" setCookie('form', 'FILLED', 30);">SEND MESSAGE</button></div></article>
 
     </section>
     <footer>
@@ -121,13 +121,9 @@
     function checkCookie() {
       var form=getCookie("form");
       if (form == 'FILLED') {
-        alert("Form filled! " + form);
-      //  hide form
         var element = document.getElementById('contact-form');
         element.style.visibility = 'hidden';
-
       } else {
-        alert("Form not filled " + form);
         var element = document.getElementById('contact-form');
         element.style.visibility = 'visible';
       }

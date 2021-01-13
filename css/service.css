@@ -1,0 +1,33 @@
+.container-fluid h1{
+  color: #a45e5e;
+  text-transform: uppercase;
+  font-family: BrandonGrotesque-Bold;
+}
+.headline-block, .header-menu{
+  position: relative;
+  padding: 20px 10%;
+  top: 0px;
+}
+small{
+  text-transform: uppercase;
+  font-family: BrandonGrotesque-Black;
+}
+.col-md-6{
+  padding: 0;
+}
+.form {
+  height: 300px;
+  width: 100%;
+  background-color: #dfeae1;
+}
+.service-image{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-menu.h-service li a {
+  color: #606060;
+}
+.header-menu.h-service li a:hover:after {
+  background: #606060;;
+}

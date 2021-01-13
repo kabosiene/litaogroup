@@ -116,7 +116,7 @@ footer {
   top: 40px;
   width: 100%;
   padding: 0 10%;
-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
 
 .logo {

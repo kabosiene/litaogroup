@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,7 @@
       <workItem from="1609326123111" duration="9077000" />
       <workItem from="1609407516213" duration="6508000" />
       <workItem from="1609746801544" duration="616000" />
+      <workItem from="1610549235960" duration="1060000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609165167939</created>
@@ -173,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609414600802</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="remove do you know section">
+      <created>1610549279234</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1610549279234</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +219,7 @@
     <MESSAGE value="add scrollbale table" />
     <MESSAGE value="add intro fix" />
     <MESSAGE value="add mobile fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mobile fix" />
+    <MESSAGE value="remove do you know section" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove do you know section" />
   </component>
 </project>

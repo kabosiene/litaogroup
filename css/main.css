@@ -22,7 +22,8 @@ body {
   display: -webkit-flex;     /* NEW - Chrome */
   display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
   font-family: BrandonGrotesque-Regular, Arial, sans-serif;
-  background-color: #f6f3f0;
+  /*background-color: #f6f3f0;*/
+  background-color: #dfeae1;
   color: #606060;
   font-size: 100%;
   font-weight: 400;
@@ -39,6 +40,8 @@ body {
   flex-direction: column;
   align-items: center;
   max-width: 1025px;
+  background-color: #f6f3f0;
+  padding: 0px;
 }
 
 .container-fluid h1 {
@@ -178,7 +181,7 @@ article{
 }
 footer {
   padding: 0 10px;
-  background: #ccc;
+  /*background: #ccc;*/
 }
 .intro-part{
   display: flex;
@@ -305,7 +308,7 @@ a div h2, a div p{
   background-color: #cbcbcb8c;
 }
 .table-borderless td, .table-borderless th, .table-borderless thead th {
-  border-right: #ffffff6e solid 2px;
+  border-right: #ffffff3d solid 2px;
 }
 .simple-table{
   overflow: auto;
@@ -420,6 +423,7 @@ footer .page-bottom .col-md-6 {
   display: flow-root;
   /*padding: 0 120px;*/
   max-width: 815px;
+  background-color: #d8d7d2;
 }
 
 /*

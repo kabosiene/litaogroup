@@ -53,8 +53,14 @@
       </article>
     </section>
     <section class="contacts">
-      <article> <div class="form" id="contact-form" style="visibility: hidden;"><button onclick=" setCookie('form', 'FILLED', 30);">SEND MESSAGE</button></div></article>
-
+      <article>
+        <div class="form" id="contact-form" style="visibility: hidden;">
+          <button onclick=" setCookie('form', 'FILLED', 30);">SEND MESSAGE</button>
+        </div>
+        <div id="downloadable" style="visibility: hidden">
+          <button>DOWNLOAD</button>
+        </div>
+      </article>
     </section>
     <footer>
       <div class="container-fluid contact_end">
@@ -120,12 +126,14 @@
 
     function checkCookie() {
       var form=getCookie("form");
+      var element = document.getElementById('contact-form');
+      var element2 = document.getElementById('downloadable');
       if (form == 'FILLED') {
-        var element = document.getElementById('contact-form');
         element.style.visibility = 'hidden';
+        element2.style.visibility = 'visible';
       } else {
-        var element = document.getElementById('contact-form');
         element.style.visibility = 'visible';
+        element2.style.visibility = 'hidden';
       }
     }
   </script>

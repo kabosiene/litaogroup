@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/service.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/service.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +76,8 @@
       <workItem from="1609746801544" duration="616000" />
       <workItem from="1610549235960" duration="7161000" />
       <workItem from="1610612063540" duration="81000" />
+      <workItem from="1610698419943" duration="3132000" />
+      <workItem from="1610712641360" duration="5708000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609165167939</created>
@@ -237,11 +240,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610555103893</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add text">
+      <created>1610698444671</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610698444671</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -280,6 +300,7 @@
     <MESSAGE value="add form hide" />
     <MESSAGE value="add update on form" />
     <MESSAGE value="add downloadable button for test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add downloadable button for test" />
+    <MESSAGE value="add text" />
+    <option name="LAST_COMMIT_MESSAGE" value="add text" />
   </component>
 </project>

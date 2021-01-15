@@ -75,21 +75,27 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  /*align-items: center;*/
+  /*max-width: 300px;*/
 }
 .headline {
   color: #ffffff;
   font-family: BrandonGrotesque-Black;
-  font-size: 55px;
+  font-size: 25px;
   font-style: normal;
   letter-spacing: normal;
-  line-height: 55px;
-  text-align: center;
+  line-height: 25px;
+  text-align: left;
   z-index: 2;
+  max-width: 302px;
 }
 .headline-block small {
-  font-size: 23px;
+  font-size: 14px;
   z-index: 2;
+}
+.headline-description{
+  max-width: 300px;
+  font-size: 11px;
 }
 
 article header small {
@@ -115,8 +121,9 @@ footer {
   justify-content: space-between;
   top: 40px;
   width: 100%;
-  padding: 0 10%;
+  /*padding: 0 10%;*/
   flex-wrap: wrap;
+  max-width: 785px;
 }
 
 .logo {
@@ -197,6 +204,7 @@ footer {
 }
 .carousel-item img{
   opacity: 0.6;
+  height: 427px;
 }
 .carousel-cell {
   width: 100%; /* full width */
@@ -236,11 +244,14 @@ footer {
   margin-bottom: 9px;
 }
 .one-column .column-header span{
+position: relative;
+}
+.one-column .column-header .number{
   font-size: 6.19em;
   color: #dfeae1;
   position: absolute;
   margin: -64px 0;
-  z-index: -1;
+  /*z-index: -1;*/
   font-family: BrandonGrotesque-Bold;
 }
 

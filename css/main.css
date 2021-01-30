@@ -126,9 +126,6 @@ footer {
   max-width: 785px;
 }
 
-.logo {
-}
-
 .header-menu li {
   padding-left: 47px;
 }
@@ -179,9 +176,6 @@ section {
   display: flex;
   width: 100%;
   margin-block: 25px;
-}
-.do-you-know{
-  background-color: #dfeae1;
 }
 article{
   width: 785px;
@@ -589,111 +583,6 @@ textarea {
   clear: both;
 }
 
-/* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
-   ========================================================================== */
-
-@media only screen and (max-width: 900px) {
-  /* Style adjustments for viewports that meet the condition */
-
-  .headline {
-    font-size: 30px;
-    line-height: 30px;
-  }
-  .headline-block {
-    top: 130px;
-  }
-
-  .headline-block small {
-    font-size: 13px;
-  }
-}
-  @media only screen and (max-width: 700px) {
-    /* Style adjustments for viewports that meet the condition */
-    .headline {
-      font-size: 25px;
-      line-height: 25px;
-    }
-
-    .headline-block {
-      top: 100px;
-    }
-
-    .headline-block small {
-      font-size: 12px;
-    }
-  }
-@media only screen and (max-width: 600px) {
-  .headline {
-    font-size: 20px;
-    line-height: 20px;
-  }
-
-  .headline-block {
-    top: 90px;
-  }
-
-  .header-menu li{
-    padding-left: 20px;
-  }
-  .header-menu li a{
-    font-size: 11px;
-  }
-
-  .headline-block small {
-    font-size: 10px;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .header-section{
-    margin-bottom: 50px;
-  }
-  .headline{
-    margin-bottom: 60px;
-  }
-  .ceo-photo{
-    height: auto;
-    width: 50vw;
-    margin: auto;
-  }
-  .intro-part{
-    flex-direction: column;
-  }
-  .header-menu{
-    justify-content: center;
-  }
-  .header-menu li{
-    padding-left: 10px;
-  }
-  nav{ display: none}
-  .only-mobile{ display: initial}
-}
-
-@media only screen and (max-width: 450px) {
-  .header-section{
-    margin-bottom: 80px;
-  }
-
-  .header-menu{
-    top: 30px;
-    padding:0 8%;
-  }
-}
-@media only screen and (max-width: 400px) {
-.header-section{
-  /*display: block;*/
-}
-  .carousel{
-    /*display: none;*/
-  }
-  .header-menu, .headline-block{
-    /*position: relative;*/
-  }
-
-}
 
 @media print,
   (-webkit-min-device-pixel-ratio: 1.25),

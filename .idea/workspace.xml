@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9472e0-fb1f-473b-a0cc-b6f0fc67d187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/full-page-scroll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/full-page-scroll.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +81,9 @@
       <workItem from="1610549235960" duration="7161000" />
       <workItem from="1610612063540" duration="81000" />
       <workItem from="1610698419943" duration="3132000" />
-      <workItem from="1610712641360" duration="5708000" />
+      <workItem from="1610712641360" duration="5802000" />
+      <workItem from="1611999777393" duration="40000" />
+      <workItem from="1611999834545" duration="19840000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1609165167939</created>
@@ -247,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610698444671</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add fix and table to service">
+      <created>1610726622432</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1610726622432</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +314,19 @@
     <MESSAGE value="add update on form" />
     <MESSAGE value="add downloadable button for test" />
     <MESSAGE value="add text" />
-    <option name="LAST_COMMIT_MESSAGE" value="add text" />
+    <MESSAGE value="add fix and table to service" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix and table to service" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>434</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
